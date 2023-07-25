@@ -1,0 +1,10 @@
+* cl-poker-eval
+
+Common lisp 7 card poker hand evaluation.  Evaluation based on pokersource.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jperson/cl-poker-eval.git   |
+| commit  | fb47b8c  |
+| systems | cl-poker-eval |
+|---------+-------------------------------------------|
+
